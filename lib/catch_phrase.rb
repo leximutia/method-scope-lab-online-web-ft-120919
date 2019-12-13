@@ -3,3 +3,4 @@ def catch_phrase(phrase)
 end
 
 phrase = "Testing"
+catch_phrase(phrase)
